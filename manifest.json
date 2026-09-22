@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "minAppVersion": "1.6.0",
   "author": "CSynapse",
-  "authorUrl": "",
-  "fundingUrl": "",
+  "authorUrl": "https://github.com/CuriousSynapse/obsidian-theme-synapse.git",
   "license": "MIT"
 }
