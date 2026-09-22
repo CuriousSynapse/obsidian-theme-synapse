@@ -1,7 +1,5 @@
 # Synapse
 
-Synapse is a native Obsidian theme based on the supplied Figma Make screenshot: a charcoal, focused study workspace with cool blue hierarchy, monospaced metadata, bordered tags, and low-contrast semantic callouts.
-
 ## Install
 
 1. Copy this entire `obsidian-theme` folder into your Obsidian vault at `.obsidian/themes/`.
